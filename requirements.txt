@@ -1,0 +1,7 @@
+torch
+ebooklib
+beautifulsoup4
+nltk
+TTS
+pydub
+gradio
