@@ -16,7 +16,7 @@ This project is a Python-based tool that converts the content of EPUB or HTML fi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/epub-to-audiobook.git
+   git clone https://github.com/nicremo/epub-to-audiobook.git
    cd epub-to-audiobook
 
 2.	**(Optional) Create and Activate a Virtual Environment**:
