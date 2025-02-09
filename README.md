@@ -21,9 +21,10 @@ This Python-based tool converts the content of EPUB or HTML files into an audiob
    git clone https://github.com/yourusername/epub-to-audiobook.git
    cd epub-to-audiobook
 
-2.	(Optional) Create and Activate a Virtual Environment:
+2.	**(Optional) Create and Activate a Virtual Environment:**
    ```bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+   python -m venv venv
+   source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-1. **Clone the Repository:**
+2.	(Optional) Create and Activate a Virtual Environment:
+
