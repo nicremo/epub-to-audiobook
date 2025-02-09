@@ -42,7 +42,7 @@ This will launch a Gradio web interface where you can upload an EPUB or HTML fil
 This repository is a fork based on the work of Hussain Mustafa. The original source code was published on his website:
 Source Code & Tutorials.
 
-License
+## License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
