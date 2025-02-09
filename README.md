@@ -19,23 +19,22 @@ This project is a Python-based tool that converts the content of EPUB or HTML fi
    git clone https://github.com/yourusername/epub-to-audiobook.git
    cd epub-to-audiobook
 
-	2.	(Optional) Create and Activate a Virtual Environment:
+2.	(Optional) Create and Activate a Virtual Environment:
+	```bash
+	python -m venv venv
+	source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
 
-
-	3.	Install Dependencies:
-
-pip install -r requirements.txt
-
+3.	Install Dependencies:
+	```bash
+ 	pip install -r requirements.txt
 Note: For pydub to work, ensure that ffmpeg is installed on your system.
 
 Usage
 
 Run the tool by executing:
 
-python epub_to_audiobook.py
+	python epub_to_audiobook.py
 
 This will launch a Gradio web interface where you can upload an EPUB or HTML file. The conversion process is displayed in real time, and you will receive both the individual chapter audio files and the complete audiobook (in MP3 format).
 
